@@ -1,0 +1,699 @@
+﻿.navbar{ /*this is the styling for the navigation bar div*/
+    background-color:black;
+    height:70px;
+    margin-top:-28px;
+    width:1540px;
+    margin-left:-10px;
+    overflow:visible
+}
+.navbar h1{ /*this is the styling for the heading within the navigation bar*/
+    color:white;
+    text-align:center;
+    word-spacing:50px;
+    font-size:40px
+}
+.navbar a{ 
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+.topnav a.icon { /*styling of the icon */
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#fb{ /*styling of the facebook link image in the navigation bar*/
+    position:relative;
+    left:100px;
+    width:50px;
+    height:50px;
+    top:-110px;
+}
+#fb:hover{ /*transformation styling for the facebook image */
+    transform:scale(1.5)
+}
+#insta { /*styling of the instagram link image in the navigation bar*/
+    position: relative;
+    left: -60px;
+    width: 50px;
+    height: 50px;
+    top: -110px;
+}
+#insta:hover { /*transformation styling for the instagram image */
+    transform: scale(1.5)
+}
+#twit { /*styling of the twitter link image in the navigation bar*/
+    position: relative;
+    left: -60px;
+    width: 50px;
+    height: 50px;
+    top: -110px;
+}
+#twit:hover { /*transformation styling for the twitter image */
+    transform: scale(1.5)
+}
+#Rhino { /*styling for the rhino image within the navigation bar*/
+    position: relative;
+    left: 545px;
+    width: 100px;
+    height: 100px;
+    top: -110px;
+}
+#productspic { /*this is the styling for the big picture with the man in it*/
+    position: relative;
+    width: 1550px;
+    height: 900px;
+    top: -104px;
+    left:-10px;
+}
+.MainDiv{ /*this is the styling for the main div which has all the other divs within it for example the divs with the clothing pictures in it */
+    height:900px;
+}
+.DivJacket1 { /*this is the styling of the div with the BILLY J SUEDE LEATHER pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    top: 100px;
+}
+.DivJacket1 h3{ /*this is the styling for the name of the product*/
+    text-align:center;
+}
+.DivJacket1 h4{ /*this is the styling for the price of the product*/
+    text-align:center;
+    position:relative;
+    top:-20px;
+}
+.DivJacket1 h5{/*this is the styling of the slogan*/
+    text-align:center;
+    position:relative;
+    top:-20px;
+}
+.DivJacket2 { /*this is the styling of the div with the BILLY J SNUFF 2 TONE LEATHER  pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    right: -395px;
+    top: -405px;
+}
+.DivJacket2 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivJacket2 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+    }
+.DivJacket2 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket3 { /*this is the styling of the div with the BJ CLASSIC LEATHER JACKET pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    right: -800px;
+    top: -910px;
+}
+.DivJacket3 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivJacket3 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket3 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket4 { /*this is the styling of the div with the BJ SPORT LEATHER JACKET pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    right: -1200px;
+    top: -1420px;
+}
+.DivJacket4 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivJacket4 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket4 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket5 { /*this is the styling of the div with the BLACK BJ LEATHER JACKET pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    top: -1300px;
+}
+.DivJacket5 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivJacket5 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket5 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivHandbag1 { /*this is the styling of the div with the CHOC LEATHER BAG pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    top: -1805px;
+    right: -395px;
+}
+.DivHandbag1 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivHandbag1 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivHandbag1 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivHandbag2 { /*this is the styling of the div with the BROWN LEATHER BAG pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    top: -2310px;
+    right: -800px;
+}
+.DivHandbag2 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivHandbag2 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivHandbag2 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket6 { /*this is the styling of the div with the SA BIKER JACKET pic in it*/
+    position: relative;
+    background-color: none;
+    width: 300px;
+    height: 500px;
+    border: 1px 1px 1px 1px;
+    border-color: #f8f8f8;
+    border-style: solid;
+    top: -2815px;
+    right: -1200px;
+}
+.DivJacket6 h3 { /*this is the styling for the name of the product*/
+    text-align: center;
+}
+.DivJacket6 h4 { /*this is the styling for the price of the product*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.DivJacket6 h5 { /*this is the styling of the slogan*/
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+.Pics{ /*this is the styling for all the clothing and handbag pics*/
+    position:relative;
+    width:280px;
+    height:300px;
+    right:-10px;
+    top:10px;
+}
+.bar1, .bar2, .bar3 { /*This is the styling for the hamburger style navigation bar */
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s
+}
+.change .bar1 {/*this is the transformation styling for the top bar of the hamburger style navigation bar*/
+    -webkit-transform: rotate(-45deg) translate(-5px, 6px);
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+.change .bar2 {/*this is the transformation styling for the middle bar of the hamburger style navigation bar*/
+     opacity: 0;
+}
+.change .bar3 { /*this is the transformation styling for the bottom bar of the hamburger style navigation bar*/
+    -webkit-transform: rotate(45deg) translate(-4px, -7px);
+    transform: rotate(45deg) translate(-4px, -7px);
+}
+.navbar a.icon{
+    display:block;
+    position: absolute;
+    right:10px;
+    top:0px;
+    z-index:3;
+}
+#options{/*this is the styling of the options within the dropdown list*/
+    display:none;
+    position:absolute;
+    background-color:black;
+    width:200px;
+    top:5px;
+    right:45px;
+    z-index: 2;
+}
+.link{/*this is the styling for the links within the navigation bar*/
+    color:white;
+    padding: 14px 16px;
+    text-decoration:none;
+    font-size: 17px;
+    display:block;
+    text-align: left;
+}
+.link:hover{/*styling of the hover of the links in the navigation bar*/
+    background-color:gray
+}
+.trollyPic{ /*styling of the trolly pic which is used to purchase the product*/
+    position:relative;
+    right:-115px;
+    top:10px;
+    height:50px;
+    width:50px;
+}
+.trollyPic:hover{ /*this is the styling for the hover of the trolley pic*/
+    cursor:pointer
+}
+.footer{/*this is the styling for the footer div*/
+    background-color:#000000;
+    text-align:center;
+    position:relative;
+    top:400px;
+    color: white;
+    width:1530px;
+    height:150px;
+    right:10px;
+}
+.footer ul{ /*this is the styling of the*/
+    list-style-type: none;
+}
+.footer li{/*styling for the list*/
+    display:inline-block;
+    padding:10px 30px;
+    text-decoration:none
+}
+.footer li a{/*this is the styling for the list links*/
+    text-decoration:none;
+    color:#7a7a7a;
+}
+.footer #SiteInfo{/*this is the styling of the site info within the footer*/
+    font-weight:300;
+}
+.footer #PersonalInfo{/*styling of the personal info within the footer*/
+    font-weight:200;
+    border-bottom:solid;
+    padding-bottom:10px;
+    border-bottom-color:white;
+}
+#LogoPic{/*this is the styling for the logo pic within the footer*/
+    position:relative;
+    width:100px;
+    height:100px;
+    right:-650px;
+    top:-110px;
+}
+/* styling for the Popup when the join button is clicked */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    top:-200px;
+    left:150px;
+}
+/* The actual styling of the popup (appears on top) */
+.popup .popuptext {
+    visibility: hidden;
+    width: 1400px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+    height:50px;
+    border:0,5px 0,5px 0,5px 0,5px;
+    border-color:white;
+    border-style:solid;
+}
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.MainDiv2 {/*the styling for the big div when the trolley pic is clicked*/
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    border-color: grey;
+    height: 180px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    box-shadow: 0 0 10px #808080;
+    position:relative;
+    top:-1350px;
+}
+.products {/*styling within the popup*/
+    height: 100px;
+    width: 450px;
+    position: relative;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 10px #808080;
+    border-color: grey;
+    top: 30px;
+    left: 30px;
+    text-align: left;
+}
+.CheckOutButton {/*styling of the checkout button*/
+    position: relative;
+    background-color: black;
+    height: 30px;
+    width: 200px;
+    left: 280px;
+    top: -15px;
+    text-decoration: none;
+    text-decoration-color: black;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center
+}
+#TextCheckOut {/*styling of the text within the checkout button*/
+    position: relative;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+.TotalPosision{/*styling of the posion of the totals*/
+    display:inline-block;
+    margin-left:auto;
+    margin-right:auto
+}
+#ReducedPrice{/*styling of the reduced price of one of the products*/
+    font-size:10px;
+    color:#979797;
+    word-spacing:3px;
+}
+/*all the id's is the styling for the BILLY J SPORT SUEDE LEATHER*/
+#label {
+    position: relative;
+    top: 30px;
+}
+#SubTotal {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Total {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#MainDiv {
+    display: none;
+}
+#Quantity {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+/*all the id's with the number 2 at the back is the styling for the BILLY J SNUFF 2 TONE LEATHER*/
+#MainDiv2{
+    display:none;
+}
+#Quantity2 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#label2{
+    position:relative;
+    top:30px;
+}
+#SubTotal2 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Total2 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+/*all the id's with the number 3 at the back is the styling for the BJ CLASSIC LEATHER JACKET*/
+#Total3 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal3 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity3 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv3 {
+    display: none;
+}
+#label3 {
+    position: relative;
+    top: 30px;
+}
+/*all the id's with the number 4 at the back is the styling for the BJ SPORT LEATHER JACKET*/
+#Total4 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal4 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity4 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv4 {
+    display: none;
+}
+#label4 {
+    position: relative;
+    top: 30px;
+}
+/*all the id's with the number 5 at the back is the styling for the BLACK BJ LEATHER JACKET*/
+#Total5 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal5 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity5 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv5 {
+    display:none;
+}
+#label5 {
+    position: relative;
+    top: 30px;
+}
+/*all the id's with the number 6 at the back is the styling for the BLACK LEATHER BAG*/
+#Total6 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal6 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity6 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv6 {
+    display: none;
+}
+#label6 {
+    position: relative;
+    top: 30px;
+}
+/*all the id's with the number 7 at the back is the styling for the BROWN LEATHER BAG*/
+#Total7 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal7 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity7 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv7 {
+    display: none;
+}
+#label7 {
+    position: relative;
+    top: 30px;
+}
+/*all the id's with the number 8 at the back is the styling for the SA BIKER JACKET*/
+#Total8 {
+    position: relative;
+    left: 320px;
+    top: -20px;
+    font-size: 20px;
+}
+#SubTotal8 {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+#Quantity8 {
+    position: relative;
+    width: 40px;
+    height: 30px;
+    top: 30px;
+    left: 10px;
+    border-color: grey;
+    border-radius: 5px;
+}
+#MainDiv8 {
+    display: none;
+}
+#label8 {
+    position: relative;
+    top: 30px;
+}

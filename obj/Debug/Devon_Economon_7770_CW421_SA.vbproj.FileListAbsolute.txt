@@ -1,0 +1,189 @@
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll.config
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.pdb
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.xml
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe.config
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.rsp
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe.config
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.rsp
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.AppContext.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Console.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Http.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe.config
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.rsp
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbprojAssemblyReference.cache
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.Resources.resources
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.GenerateResource.cache
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CoreCompileInputs.cache
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CopyComplete
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.dll
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.xml
+C:\Users\Devon\Documents\CTU assesments\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.pdb
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll.config
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.pdb
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.xml
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe.config
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.rsp
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe.config
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.rsp
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.AppContext.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Console.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Http.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe.config
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.rsp
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbprojAssemblyReference.cache
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.Resources.resources
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.GenerateResource.cache
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CoreCompileInputs.cache
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CopyComplete
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.dll
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.xml
+C:\Users\Devon\Documents\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.pdb
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll.config
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.pdb
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Devon_Economon_7770_CW421_SA.xml
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.exe.config
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csc.rsp
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.exe.config
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\csi.rsp
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.AppContext.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Collections.Immutable.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Console.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Http.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Net.Sockets.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.ValueTuple.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.exe.config
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\vbc.rsp
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\roslyn\VBCSCompiler.exe.config
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.AssemblyReference.cache
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.Resources.resources
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.GenerateResource.cache
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CoreCompileInputs.cache
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.vbproj.CopyComplete
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.dll
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.xml
+C:\Github Projects\CTU assesments\Foundation\CW421\Devon_Economon_7770_CW421_SA\obj\Debug\Devon_Economon_7770_CW421_SA.pdb

@@ -1,0 +1,125 @@
+﻿.navbar { /*this is the styling for the navigation bar div*/
+    background-color: black;
+    height: 70px;
+    margin-top: -28px;
+    width: 1540px;
+    margin-left: -10px;
+    overflow: visible
+}
+.navbar h1 { /*this is the styling for the heading within the navigation bar*/
+    color: white;
+    text-align: center;
+    word-spacing: 50px;
+    font-size: 40px
+ }
+.navbar a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+.topnav a.icon { /*styling of the icon */
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+#fb { /*styling of the facebook link image in the navigation bar*/
+    position: relative;
+    left: 100px;
+    width: 50px;
+    height: 50px;
+    top: -110px;
+}
+#fb:hover { /*transformation styling for the facebook image */
+    transform: scale(1.5)
+}
+#insta { /*styling of the instagram link image in the navigation bar*/
+    position: relative;
+    left: -60px;
+    width: 50px;
+    height: 50px;
+    top: -110px;
+}
+#insta:hover { /*transformation styling for the instagram image */
+    transform: scale(1.5)
+}
+#twit { /*styling of the twitter link image in the navigation bar*/
+    position: relative;
+    left: -60px;
+    width: 50px;
+    height: 50px;
+    top: -110px;
+}
+#twit:hover { /*transformation styling for the twitter image */
+    transform: scale(1.5)
+}
+#Rhino { /*styling for the rhino image within the navigation bar*/
+    position: relative;
+    left: 545px;
+    width: 100px;
+    height: 100px;
+    top: -110px;
+}
+.bar1, .bar2, .bar3 { /*This is the styling for the hamburger style navigation bar */
+    width: 25px;
+    height: 2px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s
+}
+.change .bar1 { /*this is the transformation styling for the top bar of the hamburger style navigation bar*/
+    -webkit-transform: rotate(-45deg) translate(-5px, 6px);
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+.change .bar2 {/*this is the transformation styling for the middle bar of the hamburger style navigation bar*/
+    opacity: 0;
+}
+.change .bar3 { /*this is the transformation styling for the bottom bar of the hamburger style navigation bar*/
+    -webkit-transform: rotate(45deg) translate(-4px, -7px);
+    transform: rotate(45deg) translate(-4px, -7px);
+}
+.navbar a.icon {
+    display: block;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    z-index: 3;
+}
+#options { /*this is the styling of the options within the dropdown list*/
+    display: none;
+    position: absolute;
+    background-color: black;
+    width: 200px;
+    top: 5px;
+    right: 45px;
+    z-index: 2;
+}
+.link { /*this is the styling for the links within the navigation bar*/
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    text-align: left;
+}
+.link:hover { /*styling of the hover of the links in the navigation bar*/
+    background-color: gray
+}
+#Thankspic { /*this is the styling for the big picture with the man in it*/
+    position: relative;
+    width: 1530px;
+    height: 800px;
+    top: -104px;
+    left: -10px;
+}

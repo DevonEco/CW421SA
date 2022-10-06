@@ -1,0 +1,203 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Shop Now</title><!--title of the webpage-->
+    <script src="Shop now.js"></script><!--this links the current html page coding with the javascript file-->
+    <link rel="stylesheet" href="Shop now stylesheet.css" /><!--this links the current html page coding with the stylesheet file-->
+</head>
+<body>
+    <!--this is the top navigation bar with the sosial media links and the hamburger dropdown navigation bar-->
+    <div class="navbar">
+        <h1>Inkwali Yenkosi</h1>
+        <!--this is the adding for the hamburger navigation bar with stylesheet and javascript coding-->
+        <a href="javascript:void(0)" onclick="HamNav() , t(this)" class="icon">
+            <div class="bar1"></div>
+            <div class="bar2"></div>
+            <div class="bar3"></div>
+        </a>
+        <!--this is the options within the dropdown navigation list-->
+        <div id="options">
+            <a href="1" class="link">Home</a>
+            <a href="2" class="link">About the Leather</a>
+            <a href="3" class="link">DIY Methods</a>
+            <a href="4" class="link">Brick & Mortar</a>
+            <a href="5" class="link">Buy Now</a>
+        </div>
+    </div>
+    <!--this is the sosial media pictures which are links to the login webpage of each one-->
+    <a href="https://www.facebook.com"><img id="fb" src="facebook.png" /></a>
+    <a href="https://www.instagram.com"><img id="insta" src="Instagram.png" /></a>
+    <a href="https://www.twitter.com"><img id="twit" src="twitter.png" /></a>
+    <img id="Rhino" src="Rhino.png" />
+    <img id="productspic" src="products.jpg" />
+    <h1 style="text-align:center">Shop Now!</h1>
+    <section>
+        <div class="MainDiv">
+            <!--this is all the divs for the products-->
+            <div class="DivJacket1">
+                <img class="Pics" src="7.jpg" />
+                <h3>BILLY J SPORT SUEDE LEATHER</h3>
+                <h5>Rebels never die</h5>
+                <h4>R3800</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction2()" />
+            </div>
+            <div class="DivJacket2">
+                <img class="Pics" src="8.jpg" />
+                <h3>BILLY J SNUFF 2 TONE LEATHER</h3>
+                <h5>Rebels never die</h5>
+                <h4>R4200</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction3()" />
+            </div>
+            <div class="DivJacket3">
+                <img class="Pics" src="5.jpg" />
+                <h3>BJ CLASSIC LEATHER JACKET</h3>
+                <h5>Rebels never die</h5>
+                <h4>R3000</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction4()" />
+            </div>
+            <div class="DivJacket4">
+                <img class="Pics" src="4.jpg" />
+                <h3>BJ SPORT LEATHER JACKET</h3>
+                <h5>Rebels never die</h5>
+                <h4>R3500</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction5()" />
+            </div>
+            <div class="DivJacket5">
+                <img class="Pics" src="9.jpg" />
+                <h3>BLACK BJ LEATHER JACKET</h3>
+                <h5>Rebels never die</h5>
+                <h4>R4000</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction6()" />
+            </div>
+            <div class="DivHandbag1">
+                <img class="Pics" src="1.10.jpg" />
+                <h3>CHOC LEATHER BAG</h3>
+                <h5>Rebels never die</h5>
+                <h4>R3850</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myfunction7()" />
+            </div>
+            <div class="DivHandbag2">
+                <img class="Pics" src="1.11.jpg" />
+                <h3>BROWN LEATHER BAG</h3>
+                <h5>Rebels never die</h5>
+                <h4><span id="ReducedPrice"><del>R3000.00</del></span>R2775</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction8()" />
+            </div>
+            <div class="DivJacket6">
+                <img class="Pics" src="26.jpg" />
+                <h3>SA BIKER JACKET</h3>
+                <h5>Rebels never die</h5>
+                <h4>R3950</h4>
+                <input type="image" class="trollyPic" src="Trolley.png" onclick="myFunction9()"/>
+            </div>
+        </div>
+    </section>
+    <!--this is the footer of the webpage-->
+    <footer class="footer">
+        <p id="SiteInfo">This website was designed by <span id="PersonalInfo">Devon Economon, ICAS: 7770 </span>and ALL copyrights are reserved</p>
+        <ul>
+            <li><a href="#">DIY</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="Devon.html">Home</a></li>
+            <li><a href="#">Brick & Mortar</a></li>
+            <li><a href="#">Shop Now</a></li>
+        </ul>
+        <p>Join our Newsletter team!  <input type="email" id="email" pattern="+@+" placeholder="Example@gmail.com" /><button onclick="myFunction()">JOIN</button></p>
+        <img id="LogoPic" src="LoGo1.jpg" />
+    </footer>
+    <!--this is the popup when the join button is clicked-->
+    <div class="popup" onclick="myFunction()">
+        <span class="popuptext" id="myPopup">Thank you for joining our news letter!</span>
+    </div>
+    <!--everything underneath is the popups for when the trolley pic is clicked-->
+    <div id="MainDiv">
+        <div class="MainDiv2" onclick="myFunction2">
+            <div class="products">
+                <label for="Quantity" id="label"></label>
+                <input type="number" id="Quantity" value="0" min="0" onclick="liveCal()" />
+                <p id="Total">R </p>
+            </div>
+            <p id="SubTotal">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv2">
+        <div class="MainDiv2" onclick="myfunction3()">
+            <div class="products">
+                <label for="Quantity2" id="label2"></label>
+                <input type="number" id="Quantity2" value="0" min="0" onclick="liveCal2()" />
+                <p id="Total2">R </p>
+            </div>
+            <p id="SubTotal2">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv3">
+        <div class="MainDiv2" onclick="myFunction4()">
+            <div class="products">
+                <label for="Quantity3" id="label3"></label>
+                <input type="number" id="Quantity3" value="0" min="0" onclick="liveCal3()" />
+                <p id="Total3">R </p>
+            </div>
+            <p id="SubTotal3">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv4">
+        <div class="MainDiv2" onclick="myFunction5()">
+            <div class="products">
+                <label for="Quantity4" id="label4"></label>
+                <input type="number" id="Quantity4" value="0" min="0" onclick="liveCal4()" />
+                <p id="Total4">R </p>
+            </div>
+            <p id="SubTotal4">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv5">
+        <div class="MainDiv2" onclick="myFunction6()">
+            <div class="products">
+                <label for="Quantity5" id="label5"></label>
+                <input type="number" id="Quantity5" value="0" min="0" onclick="liveCal5()" />
+                <p id="Total5">R </p>
+            </div>
+            <p id="SubTotal5">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv6">
+        <div class="MainDiv2" onclick="myfunction7()">
+            <div class="products">
+                <label for="Quantity6" id="label6"></label>
+                <input type="number" id="Quantity6" value="0" min="0" onclick="liveCal6()" />
+                <p id="Total6">R </p>
+            </div>
+            <p id="SubTotal6">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv7">
+        <div class="MainDiv2" onclick="myFunction8()">
+            <div class="products">
+                <label for="Quantity7" id="label7"></label>
+                <input type="number"  id="Quantity7" value="0" min="0" onclick="liveCal7()"/>
+                <p id="Total7">R </p>
+            </div>
+            <p id="SubTotal7">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+    <div id="MainDiv8">
+        <div class="MainDiv2" onclick="myFunction9()">
+            <div class="products">
+                <label for="Quantity8" id="label8"></label>
+                <input type="number" id="Quantity8" value="0" min="0" onclick="liveCal8()" />
+                <p id="Total8">R </p>
+            </div>
+            <p id="SubTotal8">Subtotal :</p>
+            <a href="Checkout.html"><div class="CheckOutButton"><p id="TextCheckOut">Check Out</p></div></a>
+        </div>
+    </div>
+</body>
+</html>
